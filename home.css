@@ -6,9 +6,12 @@
 }
 
 .header {
-    padding: 100px;
-    text-align: center;
-    background: #1abc9c;
+    height: 400px;
+    background: url(header_pic.jpg) center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     color: white;
     font-size: 30px;
-  }
+}
