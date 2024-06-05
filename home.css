@@ -15,3 +15,8 @@
     color: white;
     font-size: 30px;
 }
+
+.nav{
+    display:block;
+    text-align: center;
+}
