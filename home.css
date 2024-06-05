@@ -9,14 +9,13 @@
     height: 400px;
     background: url(header_pic.jpg) center;
     background-size: cover;
-    display: flex;
+    display: block;
     justify-content: center;
-    align-items: center;
     color: white;
     font-size: 30px;
 }
 
 .nav{
-    display:block;
     text-align: center;
+    float: center;
 }
