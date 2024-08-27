@@ -1,0 +1,198 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Zain", sans-serif;
+}
+
+.hero{
+    height:700px;
+    background: url(header_pic.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero_titles{
+    display: block;
+    text-align: center;
+}
+
+.hero-title{
+    color: white;
+    font-size: 10rem;
+    padding: 10px;
+}
+
+.hero-location{
+    color: white;
+    font-size: 2em;
+    padding: 10px;
+}
+
+
+nav{
+    background-color: rgb(156, 0, 187);
+}
+ul{
+    display: flex;
+    justify-content: center;
+}
+
+a{
+    text-decoration: none;
+    color: white; 
+    margin: 0;
+    font-size: 1.5rem;
+    display: inline-block;
+}
+a:hover{
+    background-color: rgb(207, 81, 232);
+    color: white;
+}
+li{
+    list-style: none;
+}
+
+
+
+footer{
+    background-color: rgb(156, 0, 187);
+} 
+ul{
+    display: flex;
+    justify-content: center;
+}
+a{
+    text-decoration: none;
+    color: white; 
+    margin: 0;
+    padding: 30px;
+    font-size: 1.5rem;
+    display: inline-block;
+}
+a:hover{
+    background-color: rgb(207, 81, 232);
+    color: white;
+}
+li{
+    list-style: none;
+}
+
+.home_intro1{
+    padding: 30px;
+    padding-bottom: 20px;
+    font-size: 4rem;
+    line-height: 40px;
+    text-align: center;
+}
+
+.home_intro2{
+    padding: 30px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 1.5rem;
+}
+
+.home_intro3{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-left: 100px;
+    padding-right: 100px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.home_intro4{
+    padding-bottom: 0px;
+    padding-top: 20px;
+    text-align: center;
+    line-height: 40px;
+    font-size: 1.5rem;
+}
+
+
+.home_destinations{
+    padding-bottom: 0px;
+    padding-top:100px;
+    margin: auto;
+    text-align: center;
+    line-height: 40px;
+    font-size: 3rem;
+}
+
+.destination_bit{
+    padding-bottom: 35px;
+    padding-top: 35px;
+    margin: auto;
+    text-align: center;
+    line-height: 40px;
+    font-size: 1.5rem;
+}
+
+.top_info{
+    padding: 100px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    display: block;
+    font-size: 1rem;
+    text-align: center;
+}
+
+.gracie_abrams{
+    display: flex;
+    justify-content: flex-end;
+}
+.gracie_text{
+    font-size: 4rem;
+    line-height: 50px;
+    margin: auto;
+}
+
+
+.gracie_img{
+    padding: 25px;
+    width: 500px;
+    height: 500px;
+    padding-top: 100px;
+    padding-right: 100px; 
+    text-align: right;
+}
+
+.the_national{
+    display: flex;
+}
+.national_text{
+    font-size: 4rem;
+    line-height: 490px;
+    margin: auto;
+}
+.national_img{
+    padding: 25px;
+    width: 500px;
+    height: 500px;
+    padding-top: 100px;
+    padding-left: 100px; 
+    text-align: left;
+}
+
+.taylor_swift{
+    display:flex;
+    justify-content: flex-end;
+}
+
+.taylor_text{
+    font-size: 4rem;
+    line-height: 490px;
+    margin: auto;
+}
+
+.taylor_img{
+    padding: 25px;
+    width: 500px;
+    height: 500px;
+    padding-top: 100px;
+    padding-right: 100px; 
+    text-align: right;
+} 
